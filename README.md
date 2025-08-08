@@ -1,7 +1,8 @@
 # Móveis Customizados 
 
 <p align="center">
-  ![Prévia do projeto](https://github.com/user-attachments/assets/856dd5ee-c9d6-4dd6-b53e-1ba7deeb6b02)
+  ![Prévia do projeto]
+  <img src="https://github.com/user-attachments/assets/856dd5ee-c9d6-4dd6-b53e-1ba7deeb6b02" alt="Prévia do projeto" width="80%">
 
 </p>
 

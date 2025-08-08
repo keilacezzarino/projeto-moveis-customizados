@@ -10,7 +10,7 @@
 
 <br>
 
-> Landing page para a marca fictícia "Ambientes Únicos", criada como um desafio do programa Discover da **[Rocketseat](https://www.rocketseat.com.br/)**.
+> Landing page para a marca fictícia "Ambientes Únicos", criada como um desafio proposto pela **[Rocketseat](https://www.rocketseat.com.br/)**.
 
 <br>
 

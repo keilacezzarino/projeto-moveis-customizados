@@ -53,7 +53,8 @@ p,
 }
 
 #balls {
-    position: fixed;
-    bottom: 0px;
-    right: 0px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100px;
 }

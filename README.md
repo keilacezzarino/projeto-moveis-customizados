@@ -2,7 +2,8 @@
 
 <p align="center">
   
-  <img src=img width="1365" height="911" alt="screenshot-projeto-moveis-customizados_" src="https://github.com/user-attachments/assets/da2c879b-81a2-45de-890c-e672972080d7" />
+  <img width="1496" height="858" alt="image" src="https://github.com/user-attachments/assets/04a63e21-a83d-4acf-a11c-579770601a03" />
+
 
 
 </p>
